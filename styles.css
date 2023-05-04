@@ -255,23 +255,23 @@ body {
 
 }
 .top-information h2{
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 
 }
 
 .announcement-container.one{
     border-bottom: 2px solid rgb(141, 141, 141, .5);
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 
 .announcement-container.two{
     border-bottom: 2px solid rgb(141, 141, 141, .5);
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .announcement-container.three {
-    padding-top: 40px;
+    padding-top: 20px;
 }
 
 .announcement-container h4{
@@ -297,12 +297,17 @@ body {
 .announcements {
     display: flex;
     flex-direction: column;
-    padding: 60px;
+    padding: 40px;
 
 
 }
 .bottom-information {
     margin-bottom: 10px;
+}
+
+.bottom-information h4 {
+    margin-bottom: 5px;
+    padding: 0;
 }
 
 .trending {
